@@ -1,2 +1,2 @@
-# naveenprasath.github.io
+# naveen.github.io
 My Portfolio
